@@ -50,4 +50,5 @@ Collected data from the Yelp Dataset(source at the end), which contains a number
 
 ## Sources:
 Yelp Dataset: https://www.yelp.com/dataset
+
 Presentation Slides: https://docs.google.com/presentation/d/1fd-3z5nSrtE7D0vIdBN2LIPMmU0oDt0UfjgqDbDSW4c/edit#slide=id.g8b627552d6_0_2
