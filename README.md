@@ -6,7 +6,7 @@
 - Visualizations folder: Images from EDA
 
 ## Overview:
-The pupose of this project is to attempt to build a model to predict the tags(or labels/categories) of a restaurant based on the user reviews for the restaurant. If successful this could help apply relevant tags to restaurants or be used to periodically update the tags. This would be helpful to provide users more accurate search results so they would not something because of missing tags.
+The pupose of this project is to attempt to build a model to predict the tags(or labels/categories) of a restaurant based on the user reviews for the restaurant. If successful this could help apply relevant tags to restaurants or be used to periodically update the tags. This would be helpful to provide users more accurate search results so they would not miss something because of missing tags.
 
 ## Process:
 
