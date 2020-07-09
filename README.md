@@ -2,7 +2,7 @@
 
 ## Files:
 - Data_prep: Preparing the files and data before NLP and Modeling
-- Data_process_modeling: NLP and train/testing models
+- Data_process_modeling_V2: NLP and train/testing models
 - Visualizations folder: Images from EDA
 
 ## Overview:
