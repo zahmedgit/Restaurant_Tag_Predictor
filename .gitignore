@@ -131,6 +131,7 @@ dmypy.json
 # large files
 *.csv
 *.json
+*.npz
 
 # api keys
 keys.py
